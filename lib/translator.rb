@@ -16,7 +16,7 @@ def load_library(path)
   end
 
   lib_hash
-  binding.pry
+
 =begin
 {"get_emoticon"=>
   {"O:)"=>"☜(⌒▽⌒)☞",
